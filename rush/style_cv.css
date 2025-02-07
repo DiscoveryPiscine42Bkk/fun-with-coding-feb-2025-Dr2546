@@ -55,7 +55,7 @@
 }
 
 .dropdown-menu li a {
-    background-color: #079afc; /* Default color */
+    background-color: #079afc; 
     padding: 10px 15px;
     color: white;
     text-decoration: none;
@@ -72,7 +72,7 @@
 .section-divider {
     border: none;
     height: 2px;
-    background-color: rgba(255, 255, 255, 0.3); /* Light gray line */
+    background-color: rgba(255, 255, 255, 0.3); 
     margin: 0;
 }
 
@@ -90,19 +90,16 @@
     text-align: center;
 }
 
-/* Section 1 */
 .profile {
-    background-image: url('kmitl.jpg'); /* Replace with your image */
+    background-image: url('kmitl.jpg'); 
 }
 
-/* Section 1 */
 .experience {
-    background-image: url('kmitl2.jpg'); /* Replace with your image */
+    background-image: url('kmitl2.jpg'); 
 }
 
-/* Section 1 */
 .contact {
-    background-image: url('kmitl3.jpg'); /* Replace with your image */
+    background-image: url('kmitl3.jpg'); 
 }
 
 /* Profile Zone */
@@ -116,12 +113,11 @@
 }
 
 .profile-image img {
-    width: 400px; /* Bigger size */
+    width: 400px; 
     height: 400px;
     border-radius: 50%; /* Circular image */
     object-fit: cover;
     border: 5px solid #333; /* Thicker border */
-    /* margin-right: 10vw; */
 }
 
 .profile-info {
@@ -134,7 +130,7 @@
 }
 
 .profile-info h1 {
-    font-size: 60px; /* Bigger text */
+    font-size: 60px; 
     margin: 0;
     color: #94fc98;
 }
