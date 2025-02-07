@@ -55,8 +55,8 @@ body {
 }
 
 .btn.enlarged {
-    width: 100px; /* Increase width */
-    height: 40px; /* Increase height */
+    width: 100px; 
+    height: 40px; 
     line-height: 40px; /* Adjust line-height to match new height */
     opacity: 0.5;
 }
@@ -106,7 +106,7 @@ ul {
 }
 
 .navbar .home-link {
-    color: yellow;  /* Highlight the home link */
+    color: yellow;  
 }
 
 section {
